@@ -1,0 +1,8 @@
+package helpers
+
+
+
+
+func GenerateJWT() {
+	
+}
